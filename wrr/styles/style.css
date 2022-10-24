@@ -66,7 +66,7 @@ h2{
 }
 .msg h2{
     color: white;
-    font-family: Caveat;
+    font-family: Caveat, cursive;
 }
 .msg p{
     color: white;
@@ -82,11 +82,11 @@ footer{
     padding-top: 10px;
 }
 .logo{
-    width: 80px;
+    width: 200px;
 }
 .home-title{
     color:#d40000;
-    font-family: Caveat;
+    font-family: Caveat, cursive;
     font-size: 2em;
     margin-top: 10px;
 }
