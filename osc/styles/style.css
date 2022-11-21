@@ -1,0 +1,6 @@
+body{
+    background-color: #A7A8A7;
+}
+nav img{
+    -webkit-filter: invert(100%);
+}
