@@ -230,7 +230,37 @@ footer a{
     z-index: 1;
 }
 
+/* Portfolio */ 
 
+#portfolio{
+    display:flex;
+    flex-direction: column;
+    background-image:url("../images/cad.jpg");
+    background-clip:content-box;
+    background-position: center;
+    padding: 20px;
+    color:white;
+}
+#portfolio_info{
+    background-color: #373737f8;
+    padding: 10px;
+    margin-left: 10px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    display: flex;
+    align-items: center;
+}
+.project{
+    background-color: #373737e0;
+    padding: 10px;
+    margin: 10px;
+    
+}
+
+#intro{
+    display: flex;
+    padding: 5px;
+}
 
 /* Tablet Resizing */ 
 @media screen and (max-width: 800px) {
