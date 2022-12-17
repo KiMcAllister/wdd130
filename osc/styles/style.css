@@ -205,7 +205,7 @@ footer a{
     color: #93BFEC;
     background-color:#373737e0;
     max-width: 45vw;
-    top: (500px - 1vh);
+    /*top: (500px - 1vh);*/
 }
 #about_img_1{
     grid-row-start: 1;
